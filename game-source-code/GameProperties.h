@@ -35,7 +35,7 @@ using _gameResources = std::shared_ptr<GameComponents>;
 
 /**
  * @class Coordinates
- * @author Masabata Pule (482412) and Tsietsi Gcanga(2104199)
+ * @author Phetolo Malele
  * @date 29/09/2022
  * @file GameProperties.h
  * @brief all coordinates for the game
