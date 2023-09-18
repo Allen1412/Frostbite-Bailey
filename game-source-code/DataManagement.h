@@ -66,7 +66,7 @@ private:
 
 /**
  * @class TextureNotFound
- * @author  Masabata Pule (482412) and Tsietsi Gcanga(2104199)
+ * @author  Phetolo Malele
  * @date 30/09/2022
  * @file DataManager.h
  * @brief empty class that is called when texture could not be loaded
@@ -75,7 +75,7 @@ class  TextureNotFound{};
 
 /**
  * @class FontNotFound
- * @author  Masabata Pule (482412) and Tsietsi Gcanga(2104199)
+ * @author Phetolo Malele
  * @date 30/09/2022
  * @file DataManagement.h
  * @brief empty class that gets called when font could not be loaded
